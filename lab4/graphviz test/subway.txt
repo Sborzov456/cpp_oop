@@ -1,0 +1,6 @@
+graph G {
+A[color = red]
+B[color = red]
+C[color = red]
+A--B--C[color = red];
+}
